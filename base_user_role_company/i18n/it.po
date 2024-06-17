@@ -6,20 +6,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 14.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2022-02-15 16:16+0000\n"
-"Last-Translator: Riccardo Bellanova <r.bellanova@apuliasoftware.it>\n"
+"PO-Revision-Date: 2024-02-05 09:38+0000\n"
+"Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.3.2\n"
+"X-Generator: Weblate 4.17\n"
 
 #. module: base_user_role_company
 #: model:ir.model.fields,field_description:base_user_role_company.field_res_users_role_line__allowed_company_ids
 msgid "Companies"
-msgstr ""
+msgstr "Aziende"
 
 #. module: base_user_role_company
 #: model:ir.model.fields,field_description:base_user_role_company.field_res_users_role_line__company_id
@@ -36,7 +36,7 @@ msgstr "Nome visualizzato"
 #. module: base_user_role_company
 #: model:ir.model,name:base_user_role_company.model_ir_http
 msgid "HTTP Routing"
-msgstr "Rotta HTTP"
+msgstr "Instradamento HTTP"
 
 #. module: base_user_role_company
 #: model:ir.model.fields,field_description:base_user_role_company.field_ir_http__id
